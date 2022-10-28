@@ -1,0 +1,1 @@
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Power-red/Li-ion charger with protection/.git/
