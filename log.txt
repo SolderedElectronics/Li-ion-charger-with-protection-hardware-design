@@ -112,3 +112,22 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Power-red/Breadboard power supply board to Breadboard-power-supply-board-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Power-red/Li-ion charger with protection/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 373c810] Updating open source files.
+ 1 file changed, 41 insertions(+)
+https://github.com/SolderedElectronics/Li-ion-charger-with-protection-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Power-red/Li-ion charger BQ24295 with 5V USB output board/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Power-red/1S Li-Ion battery protection/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Power-red/Breadboard power supply board/OUTPUTS/V1.1.1: all files are present, commiting...
+Breadboard-power-supply-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Power-red/Breadboard power supply board to Breadboard-power-supply-board-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Power-red/Li-ion charger with protection/.git/
